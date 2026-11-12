@@ -45,3 +45,8 @@ public class Ejemplo03 {
         
     }
 }
+
+/*
+El string format sirve para poder ir guardando datos dentro de una misma cadena
+sin la necesidad de crear mas variables.
+*/
